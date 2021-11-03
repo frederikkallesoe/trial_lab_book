@@ -1,0 +1,4 @@
+purpose-of-this-book
+the-gerenl-structure-of-the-project
+journal-enteries
+bibliography
