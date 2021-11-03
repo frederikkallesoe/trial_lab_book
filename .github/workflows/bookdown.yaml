@@ -34,7 +34,5 @@ jobs:
       - name: push gitbook
         run:|
          git add -A
-         git commit -am "rebuild gitbook" || echo "No changes to commit"
+         git commit -am 'rebuild gitbook' || echo "No changes to commit"
          git push origin main || echo "No changes to commit"
-         
-     
